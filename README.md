@@ -1,5 +1,7 @@
 # VKU Campus Audit - Field Survey App 🏫
 
+🚀 **Live Demo:** [https://vku-campus-audit.vercel.app/](https://vku-campus-audit.vercel.app/)
+
 A modern, Offline-First Progressive Web Application (PWA) designed for campus facility inspections at VKU. Built with React, TypeScript, Vite, Tailwind CSS, and IndexedDB, it ensures uninterrupted data collection even in areas with zero network connectivity (basements, remote buildings).
 
 ## 🌟 Key Features
